@@ -1,2 +1,4 @@
 this is my new file
 here is second line and second commit
+
+this is a change added by Juan Solorio for the class project
